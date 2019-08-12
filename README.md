@@ -1,0 +1,2 @@
+# ItemNameChanger
+SamplePlugin

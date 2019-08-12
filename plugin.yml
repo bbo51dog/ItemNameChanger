@@ -1,0 +1,10 @@
+name: ItemNameChanger
+api: [3.0.0]
+main: bboyyu51\itemname\Main
+version: 1.0.0
+despriction: Change Item Name
+author: bboyyu51
+permissions:
+  iname: 
+    default: true
+    description: Change Item Name Command
